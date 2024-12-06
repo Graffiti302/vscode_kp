@@ -1,0 +1,42 @@
+body{
+background-color: black;
+}
+p{
+color: aqua;
+font-size: 12pt;
+}
+
+h1{
+color: aquamarine;
+font-size: 12pt
+}
+
+h2{
+color: chartreuse;
+font-size: 18pt
+}
+
+h3{
+color: crimson;
+font-size: 12pt
+}
+
+li{
+color: aqua;
+font-size: 12pt
+}
+#Fold{
+background-color: darkblue;
+}
+
+#Savannah{
+background-color: dimgray; 
+}
+
+#Bengali{
+background-color: rgba(128, 0, 117, 0.514);
+}
+.li2{
+color: red;
+}
+
