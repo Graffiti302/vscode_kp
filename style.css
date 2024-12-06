@@ -68,3 +68,7 @@ a:hover{
 color: blue;
 background: yellow;
 }
+
+img{
+width: 1000%;
+}
