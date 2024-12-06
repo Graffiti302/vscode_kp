@@ -1,5 +1,8 @@
 body{
 background-color: black;
+width: 80%;
+max-width: 1000px;
+margin: auto;
 }
 p{
 color: aqua;
@@ -40,3 +43,28 @@ background-color: rgba(128, 0, 117, 0.514);
 color: red;
 }
 
+#ids{
+padding-left: ;
+
+
+
+
+}
+a{
+border: 3px solid purple;
+border-radius: 100px;
+text-decoration: none;
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+background-color: azure;
+margin-right: 20px;
+
+
+}
+
+a:hover{
+color: blue;
+background: yellow;
+}
